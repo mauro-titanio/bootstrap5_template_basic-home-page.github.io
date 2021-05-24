@@ -1,1 +1,0 @@
-# bootstrap5_template_basic-home-page.github.io
